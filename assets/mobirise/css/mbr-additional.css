@@ -1396,7 +1396,7 @@ body {
 .cid-rnEisRuPEW {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/fundo-site-880x540.png");
+  background-image: url("../../../assets/images/fundo-site-2-880x540.png");
 }
 .cid-rnEisRuPEW P {
   color: #767676;
@@ -1528,19 +1528,62 @@ body {
 .cid-rnF5nsrKRg .card-wrapper {
   height: 100%;
 }
-.cid-rnEqbv5ytQ {
-  padding-top: 60px;
-  padding-bottom: 45px;
-  background-image: url("../../../assets/images/fundo-site-880x540.png");
+.cid-rnFS4IC3yZ {
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/fundo-site-4-880x540.png");
 }
-.cid-rnEqbv5ytQ P {
+.cid-rnFS4IC3yZ h3 {
+  text-align: center;
+}
+.cid-rnFS4IC3yZ .mbr-section-subtitle {
+  color: #767676;
+  font-weight: 300;
+}
+.cid-rnFS4IC3yZ .mbr-content-text {
   color: #767676;
 }
-.cid-rnEqbv5ytQ H1 {
+.cid-rnFS4IC3yZ .card {
+  word-wrap: break-word;
+}
+.cid-rnFS4IC3yZ .mbr-iconfont {
+  font-size: 80px;
   color: #149dcc;
 }
+.cid-rnFS4IC3yZ .mbr-section-title B {
+  color: #149dcc;
+}
+.cid-rnFQzMCg5j {
+  padding-top: 0px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/fundo-site-5-880x540.png");
+}
+.cid-rnFQzMCg5j h3 {
+  text-align: center;
+}
+.cid-rnFQzMCg5j .mbr-section-subtitle {
+  color: #767676;
+  font-weight: 300;
+  text-align: center;
+}
+.cid-rnFQzMCg5j .mbr-content-text {
+  color: #767676;
+}
+.cid-rnFQzMCg5j .card {
+  word-wrap: break-word;
+}
+.cid-rnFQzMCg5j .mbr-iconfont {
+  font-size: 80px;
+  color: #149dcc;
+}
+.cid-rnFQzMCg5j H4 {
+  color: #767676;
+}
+.cid-rnFQzMCg5j SPAN {
+  color: #232323;
+}
 .cid-rnEihVJUCV {
-  padding-top: 30px;
+  padding-top: 45px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
